@@ -1,0 +1,7 @@
+a.out
+fib
+.vscode
+.gitignore
+*
+!*.cpp
+!*.c
